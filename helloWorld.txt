@@ -1,5 +1,14 @@
 public static void main (String[]args){
-    
+    int digit; 
+    Scanner sc = new Scanner(System.in); 
+    while (true){
+    digit = sc.nextInt(); 
+    switch(digit){
+    case 1: 
+    break; 
+    case 2: 
+    break; 
+    }}
 }; 
 
 public static final float BOOKINGFEE = 2.5%;
